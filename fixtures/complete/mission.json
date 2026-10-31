@@ -1,0 +1,14 @@
+{
+  "mission_id": "WR-COMPLETE",
+  "site": "SYNTHETIC-ALPHA",
+  "requirements": [
+    "power",
+    "connectivity",
+    "access"
+  ],
+  "evidence_files": [
+    "primary.json"
+  ],
+  "supplemental_file": null,
+  "max_recovery_lookups": 1
+}

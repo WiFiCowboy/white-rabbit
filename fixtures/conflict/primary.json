@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "record_id": "SYN-POWER",
+      "site": "SYNTHETIC-ALPHA",
+      "requirement": "power",
+      "ready": true
+    },
+    {
+      "record_id": "SYN-CONNECTIVITY",
+      "site": "SYNTHETIC-ALPHA",
+      "requirement": "connectivity",
+      "ready": true
+    },
+    {
+      "record_id": "SYN-ACCESS",
+      "site": "SYNTHETIC-ALPHA",
+      "requirement": "access",
+      "ready": true
+    },
+    {
+      "record_id": "SYN-POWER-CONFLICT",
+      "site": "SYNTHETIC-ALPHA",
+      "requirement": "power",
+      "ready": false
+    }
+  ]
+}

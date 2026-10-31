@@ -1,0 +1,14 @@
+{
+  "mission_id": "WR-RECOVERY",
+  "site": "SYNTHETIC-ALPHA",
+  "requirements": [
+    "power",
+    "connectivity",
+    "access"
+  ],
+  "evidence_files": [
+    "primary.json"
+  ],
+  "supplemental_file": "supplemental.json",
+  "max_recovery_lookups": 1
+}
