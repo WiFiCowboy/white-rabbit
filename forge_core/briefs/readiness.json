@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "brief_id": "FORGE-CORE-001",
+  "objective": "Assess synthetic deployment readiness and return evidence for human review.",
+  "executor": "white_rabbit_v0_1",
+  "scenario": "recovery",
+  "expected_mission_id": "WR-RECOVERY",
+  "expected_site": "SYNTHETIC-ALPHA",
+  "limits": {
+    "dispatch_attempts": 1,
+    "timeout_seconds": 5
+  },
+  "requested_end_state": "READY_FOR_REVIEW"
+}
