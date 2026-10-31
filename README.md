@@ -10,6 +10,13 @@ A human dispatches a mission. The runner checks declared local evidence files,
 permits at most one supplemental lookup, validates source references, and produces
 a JSON report and a Markdown SITREP. It takes no deployment action.
 
+## FORGE Core — mission coordination
+
+[Explore FORGE Core](forge_core/README.md): one mission brief, one bounded
+WHITE RABBIT dispatch, and evidence-based result reconciliation.
+It distinguishes completed execution from mission readiness and keeps the
+human decision explicit. See the [architecture case study](forge_core/CASE_STUDY.md).
+
 ## Run it
 
 Python 3.8 or later. Standard library only; no packages, API keys, or network access
